@@ -1,0 +1,42 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<Layout title="Liceo Diego Portales Linares">
+    <Header />
+    <div class="py-5">
+        <div
+            class="container mx-auto px-4 py-4 sm:py-4 lg:py-4 sm:px-6 lg:px-8 flex items-center"
+        >
+            <hr class="flex-grow border-t-2 border-gray-300 mx-2" />
+            <h2 class="text-4xl font-bold text-center mx-2 uppercase">
+                actas 2023
+            </h2>
+            <hr class="flex-grow border-t-2 border-gray-300 mx-2" />
+        </div>
+        <div
+            class="container mx-auto px-4 py-4 sm:py-4 lg:py-4 sm:px-6 lg:px-8"
+        >
+            <div class="text-xl space-y-4 text-center py-6">
+                <div class="transition-all hover:scale-90 hover:text-blue-500">
+                    <a href="/dctos/Acta_Constitucion_2023.pdf" target="_blank"
+                        >Acta Constitutiva</a
+                    >
+                </div>
+                <div class="transition-all hover:scale-90 hover:text-blue-500">
+                    <a href="/dctos/Acta_01_2023.pdf" target="_blank"
+                        >Acta N°1</a
+                    >
+                </div>
+                <div class="transition-all hover:scale-90 hover:text-blue-500">
+                    <a href="/dctos/acta_02_2023.pdf" target="_blank"
+                        >Acta N°2</a
+                    >
+                </div>
+            </div>
+        </div>
+    </div>
+</Layout>
+<Footer />

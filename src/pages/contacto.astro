@@ -1,0 +1,32 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<Layout>
+    <Header />
+    <div class="py-5">
+        <div
+            class="container mx-auto px-4 py-4 sm:py-4 lg:py-4 sm:px-6 lg:px-8 flex items-center"
+        >
+            <hr class="flex-grow border-t-2 border-gray-300 mx-2" />
+            <h2 class="text-4xl font-bold text-center mx-2 uppercase">
+                Encuentranos
+            </h2>
+            <hr class="flex-grow border-t-2 border-gray-300 mx-2" />
+        </div>
+        <div class="container mx-auto flex justify-center py-10">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3233.960070662498!2d-71.59159862252456!3d-35.84998262438385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9665f55b8fd98913%3A0xb50608b1472ed685!2sLiceo%20T%C3%A9cnico%20Profesional%20Diego%20Portales!5e0!3m2!1ses-419!2scl!4v1731603379639!5m2!1ses-419!2scl"
+                width="1080"
+                height="600"
+                style="border:0;"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+
+    <Footer />
+</Layout>

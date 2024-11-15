@@ -1,0 +1,54 @@
+{
+    "cga": [
+        {
+            "imagen": "/cga/patricio.webp",
+            "nombre": "Patricio Morales Norambuena",
+            "cargo": "PRESIDENTE"
+        },
+        {
+            "imagen": "/cga/haranza.webp",
+            "nombre": "Haranza Vásquez",
+            "cargo": "VICE PRESIDENTA"
+        },
+        {
+            "imagen": "/cga/carla.webp",
+            "nombre": "Carla Vega",
+            "cargo": "SECRETARIA"
+        },
+        {
+            "imagen": "/cga/anais.webp",
+            "nombre": "Anais Bruna",
+            "cargo": "TESORERA"
+        },
+        {
+            "imagen": "/cga/martina.webp",
+            "nombre": "Martina Ponce",
+            "cargo": "SUB SECRETARIA"
+        },
+        {
+            "imagen": "/cga/feliz.webp",
+            "nombre": "Féliz Tapia",
+            "cargo": "DELEGADO"
+        },
+        {
+            "imagen": "/cga/alejandra.webp",
+            "nombre": "Alejandra Jaramillo",
+            "cargo": "ENCARGA R.R.S.S."
+        },
+        {
+            "imagen": "/cga/jocsan.webp",
+            "nombre": "Jocsan Quezada",
+            "cargo": "ENCARGADO DEPORTES Y CULTURA"
+        },
+        {
+            "imagen": "/cga/julia.webp",
+            "nombre": "Julia Fuentes",
+            "cargo": "ENCARGADA DE RADIO"
+        },
+        {
+            "imagen": "/cga/karina.webp",
+            "nombre": "Karina Figueroa",
+            "cargo": "ENCARGADA PSICOSOCIAL"
+        }
+    ]
+}

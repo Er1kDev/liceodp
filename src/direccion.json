@@ -1,0 +1,79 @@
+{
+    "direccion": [
+        {
+            "imagen": "/direccion/director.webp",
+            "nombre": "Ramón Mercado Lobos",
+            "cargo": "DIRECTOR"
+        },
+        {
+            "imagen": "/direccion/vergara.webp",
+            "nombre": "M. Francisca Vergara Trejos",
+            "cargo": "JEFA U.T.P."
+        },
+        {
+            "imagen": "/direccion/mauricio_maureira.webp",
+            "nombre": "Mauricio Maureira Hidalgo",
+            "cargo": "INSPECTOR GENERAL"
+        },
+        {
+            "imagen": "/direccion/claudia.webp",
+            "nombre": "Claudia Retamal Ayala",
+            "cargo": "COORDINADORA TÉCNICO PROFESIONAL"
+        },
+        {
+            "imagen": "/direccion/alexis.webp",
+            "nombre": "Alexis González Meza",
+            "cargo": "Evaluador U. T. P"
+        },
+        {
+            "imagen": "/direccion/francisca.webp",
+            "nombre": "Francisca Luarte",
+            "cargo": "COORDINADORA DE TUTORES"
+        },
+        {
+            "imagen": "/direccion/freddy.webp",
+            "nombre": "Freddy Quezada Luengo",
+            "cargo": "UNIDAD DE ORIENTACIÓN"
+        },
+        {
+            "imagen": "/direccion/carolina.webp",
+            "nombre": "Carolina Bravo Sánchez",
+            "cargo": "COORDINADORA P.I.E"
+        },
+        {
+            "imagen": "/direccion/juan_guillermo.webp",
+            "nombre": "Juan Guillermo Albornoz Tejos",
+            "cargo": "SEGURIDAD ESCOLAR"
+        },
+        {
+            "imagen": "/direccion/jessica.webp",
+            "nombre": "Jessica Villar Riquelme",
+            "cargo": "COORDINADORA INFORMÁTICA"
+        },
+        {
+            "imagen": "/direccion/catherin.webp",
+            "nombre": "Catherin Valenzuela Valderrama",
+            "cargo": "CONVIVENCIA ESCOLAR"
+        },
+        {
+            "imagen": "/direccion/luis.webp",
+            "nombre": "Luis Romero Quezada",
+            "cargo": "CONVIVENCIA ESCOLAR"
+        },
+        {
+            "imagen": "/direccion/tatiana.webp",
+            "nombre": "Tatiana Quiroz Alarcón",
+            "cargo": "COORDINADORA PSICOSOCIAL"
+        },
+        {
+            "imagen": "/direccion/diego.webp",
+            "nombre": "Diego Romero Méndez",
+            "cargo": "CURRICULISTA T.P"
+        },
+        {
+            "imagen": "/direccion/caterin.webp",
+            "nombre": "Caterin Molina Vivanco",
+            "cargo": "CURRICULISTA H.C"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "noticias": [
+        {
+            "imagen": "/noticias/premiacion_asistente.webp",
+            "titulo": "Premiación Día Asistente de la Educación",
+            "descripcion": "EL 16 de octubre, se llevó a cabo la premiación a los Asistentes de la Educación en el Teatro Municipal de Linares. Nos llena de orgullo anunciar que nuestra querida Sandra Parada Machuca, fue galardonada por su dedicación y esfuerzo",
+            "link": "https://web.facebook.com/photo/?fbid=1293072755074486&set=pcb.1293077315074030"
+        },
+        {
+            "imagen": "/noticias/premiacion_96.webp",
+            "titulo": "CEREMONIA ANIVERSARIO 96 AÑOS",
+            "descripcion": "En la Ceremonia Oficial de los 96 años del Liceo Diego Portales de Linares, tuvimos el honor de premiar a los mejores estudiantes de cada nivel. También reconocimos a los apoderados destacados por su gran labor y compromiso, tal como lo eligieron sus propios pares.",
+            "link": "https://web.facebook.com/photo/?fbid=1287944358920659&set=pcb.1287945962253832"
+        },
+        {
+            "imagen": "/noticias/convenio.webp",
+            "titulo": "convenio práctica hospital",
+            "descripcion": "En una grata reunión, la Coordinación Técnico Profesional de nuestro establecimiento y Unidad Asistencial Docente del Hospital de Linares. Con ellos se afinaron detalles del nuevo convenio de prácticas para la especialidad de Atención de Enfermería, hito importantísimo para nuestra Casa Grande",
+            "link": "https://web.facebook.com/photo/?fbid=1282913582757070&set=pcb.1282915782756850"
+        },
+        {
+            "imagen": "/noticias/concurso_cueca.webp",
+            "titulo": "Concurso de Cueca Interna",
+            "descripcion": "Este año se realizó el IX Campeonato Interno de Cueca, el objetivo principal fortalecer el sentido de pertenencia y otorgar valores culturales tradicionales a nuestros estudiantes y comunidad educativa",
+            "link": "https://web.facebook.com/photo/?fbid=1280436366338125&set=pcb.1280439146337847&locale=es_LA"
+        },
+        {
+            "imagen": "/noticias/familia-escuela.webp",
+            "titulo": "Familia Escuela",
+            "descripcion": "¡Hoy 25 de Septiembre, en el Liceo Diego Portales vivimos una jornada llena de sabor, tradición y música!",
+            "link": "https://web.facebook.com/photo/?fbid=1276269270088168&set=pcb.1276271310087964"
+        },
+        {
+            "imagen": "/noticias/aniversario.webp",
+            "titulo": "CELEBRACIÓN ANIVERSARIO N° 96",
+            "descripcion": "Toda esta semana celebramos el aniversario del Liceo Diego Portales de Linares! 🎉 La energía y el entusiasmo de toda la comunidad llenaron cada una de las competencias.",
+            "link": "https://web.facebook.com/photo/?fbid=1255161395532289&set=pcb.1255164075532021"
+        }
+    ]
+}
